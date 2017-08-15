@@ -2,8 +2,8 @@
 <hr>
 <h3> Data descriptions </h3>
 <ol>
-  <li> train_users_2.csv - the training set of users </li>
-  <li> test_users.csv - the test set of users </li>
+  <li> <b>train_users_2.csv</b> - the training set of users </li>
+  <li> <b>test_users.csv</b> - the test set of users </li>
   
   <ol>
   <li> id: user id </li>
@@ -21,10 +21,10 @@
   <li> signup_app </li>
   <li> first_device_type </li>
   <li> first_browser </li>
-  <li> country_destination: this is the <bold> target variable </bold> you are to predict </li>
+  <li> country_destination: this is the <i><b> target variable </b></i> you are to predict </li>
   </ol>
   
-  <li> sessions.csv - web sessions log for users </li>
+  <li> <b>sessions.csv</b> - web sessions log for users </li>
   
   <ol>
   <li> user_id: to be joined with the column 'id' in users table </li>
@@ -35,8 +35,8 @@
   <li> secs_elapsed </li>
   </ol>
   
-  <li> countries.csv - summary statistics of destination countries in this dataset and their locations </li>
-  <li> age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination </li>
+  <li> <b>countries.csv</b> - summary statistics of destination countries in this dataset and their locations </li>
+  <li> <b>age_gender_bkts.csv</b> - summary statistics of users' age group, gender, country of destination </li>
   
   <ul>
 
