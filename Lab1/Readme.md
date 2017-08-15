@@ -1,8 +1,10 @@
 <h2> Data Preprocessing </h2>
 <hr>
 <h3> Data descriptions </h3>
-train_users_2.csv - the training set of users 
-test_users.csv - the test set of users 
+<li>
+  <item> train_users_2.csv - the training set of users </item>
+  <item>test_users.csv - the test set of users </item>
+</li>
 
 <list>
   <item>id: user id
