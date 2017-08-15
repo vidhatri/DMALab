@@ -6,7 +6,7 @@
   <li> <b>test_users.csv</b> - the test set of users </li>
   
   <ol>
-  <li> <i><b>id<i><b>: user id </li>
+  <li> <i><b>id</i></b>: user id </li>
   <li> <i><b>date_account_created<i><b>: the date of account creation </li>
   <li> <i><b>timestamp_first_active<i><b>: timestamp of the first activity, note that it can be earlier than date_account_created or date_first_booking because a user can search before signing up </li>
   <li> <i><b>date_first_booking<i><b>: date of first booking </li>
