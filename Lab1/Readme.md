@@ -6,33 +6,33 @@
   <li> <b>test_users.csv</b> - the test set of users </li>
   
   <ol>
-  <li> id: user id </li>
-  <li> date_account_created: the date of account creation </li>
-  <li> timestamp_first_active: timestamp of the first activity, note that it can be earlier than date_account_created   or date_first_booking because a user can search before signing up </li>
-  <li> date_first_booking: date of first booking </li>
-  <li> gender </li>
-  <li> age</li>
-  <li> signup_method </li>
-  <li> signup_flow: the page a user came to signup up from </li>
-  <li> language: international language preference </li>
-  <li> affiliate_channel: what kind of paid marketing </li>
-  <li> affiliate_provider: where the marketing is e.g. google, craigslist, other </li>
-  <li> first_affiliate_tracked: whats the first marketing the user interacted with before the signing up </li>
-  <li> signup_app </li>
-  <li> first_device_type </li>
-  <li> first_browser </li>
-  <li> country_destination: this is the <i><b> target variable </b></i> you are to predict </li>
+  <li> <i><b>id<i><b>: user id </li>
+  <li> <i><b>date_account_created<i><b>: the date of account creation </li>
+  <li> <i><b>timestamp_first_active<i><b>: timestamp of the first activity, note that it can be earlier than date_account_created or date_first_booking because a user can search before signing up </li>
+  <li> <i><b>date_first_booking<i><b>: date of first booking </li>
+  <li> <i><b>gender<i><b> </li>
+  <li> <i><b>age<i><b> </li>
+  <li> <i><b>signup_method<i><b> </li>
+  <li> <i><b>signup_flow<i><b>: the page a user came to signup up from </li>
+  <li> <i><b>language<i><b>: international language preference </li>
+  <li> <i><b>affiliate_channel<i><b>: what kind of paid marketing </li>
+  <li> <i><b>affiliate_provider<i><b>: where the marketing is e.g. google, craigslist, other </li>
+  <li> <i><b>first_affiliate_tracked<i><b>: whats the first marketing the user interacted with before the signing up </li>
+  <li> <i><b>signup_app<i><b> </li>
+  <li> <i><b>first_device_type<i><b> </li>
+  <li> <i><b>first_browser<i><b> </li>
+  <li> <i><b>country_destination<i><b>: this is the <i><b> target variable </b></i> you are to predict </li>
   </ol>
   
   <li> <b>sessions.csv</b> - web sessions log for users </li>
   
   <ol>
-  <li> user_id: to be joined with the column 'id' in users table </li>
-  <li> action </li>
-  <li> action_type </li>
-  <li> action_detail </li>
-  <li> device_type </li> 
-  <li> secs_elapsed </li>
+  <li> <i><b>user_id<i><b>: to be joined with the column 'id' in users table </li>
+  <li> <i><b>action<i><b> </li>
+  <li> <i><b>action_type<i><b> </li>
+  <li> <i><b>action_detail<i><b> </li>
+  <li> <i><b>device_type<i><b> </li> 
+  <li> <i><b>secs_elapsed<i><b> </li>
   </ol>
   
   <li> <b>countries.csv</b> - summary statistics of destination countries in this dataset and their locations </li>
