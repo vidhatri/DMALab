@@ -3,7 +3,6 @@
 <hr>
 <h3> Walkthrough of Traveler Data </h3>
 
-<hr>
 <h4> <i>Task</i>: Given a list of users along with their demographics, web session records, and some summary statistics. Predict which country a new user's first booking destination will be.</h4>
 
 <hr>
