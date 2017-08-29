@@ -1,0 +1,4 @@
+_id,product_name,supplier,quantity,unit_cost
+{'$oid': '5968dd23fc13ae04d9000001'},sildenafil citrate,Wisozk Inc,261,$10.47
+{'$oid': '5968dd23fc13ae04d9000002'},Mountain Juniperus ashei,Keebler-Hilpert,292,$8.74
+{'$oid': '5968dd23fc13ae04d9000003'},Dextromathorphan HBr,Schmitt-Weissnat,211,$20.53
